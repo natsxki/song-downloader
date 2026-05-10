@@ -27,7 +27,7 @@ pip install yt-dlp
 | macOS | `brew install ffmpeg` |
 
 
-## Usage
+## Usageeeee •ᴗ•
 Create a `titles.txt` file in your folder, and type in `artist - title` on separate lines (*more info below*)
 
 ### Basic command 💗ྀི
